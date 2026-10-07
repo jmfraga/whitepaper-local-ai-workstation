@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "From Amazon to production in 17 days: a 128 GB AI workstation serving real agents"
+authors:
+  - family-names: "Fraga-Sastrías"
+    given-names: "Juan Manuel"
+    orcid: "https://orcid.org/0000-0002-9255-278X"
+license: CC-BY-4.0
+url: "https://www.docfraga.com/en/whitepapers/gx10-17-dias"
+keywords:
+  - "local LLM inference"
+  - "vLLM"
+  - "NVIDIA GB10"
+  - "DGX Spark"
+  - "Qwen"
+  - "on-premises AI"
+  - "health care AI"
+  - "model evaluation"
+  - "LLM arenas"
+  - "mixture of experts"
+preferred-citation:
+  type: report
+  title: "From Amazon to production in 17 days: a 128 GB AI workstation serving real agents"
+  authors:
+    - family-names: "Fraga-Sastrías"
+      given-names: "Juan Manuel"
+      orcid: "https://orcid.org/0000-0002-9255-278X"
+  year: 2026
+  url: "https://www.docfraga.com/en/whitepapers/gx10-17-dias"
