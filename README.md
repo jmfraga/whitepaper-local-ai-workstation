@@ -25,6 +25,7 @@ Fraga-Sastrías JM. *From Amazon to production in 17 days: a 128 GB AI workstati
 https://doi.org/10.5281/zenodo.23213603
 
 - All versions (concept DOI, always resolves to the latest): [10.5281/zenodo.23213603](https://doi.org/10.5281/zenodo.23213603)
+- Version 1.1: [10.5281/zenodo.23214666](https://doi.org/10.5281/zenodo.23214666)
 - Version 1.0: [10.5281/zenodo.23213604](https://doi.org/10.5281/zenodo.23213604)
 
 ## Changelog
