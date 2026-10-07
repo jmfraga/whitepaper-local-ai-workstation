@@ -4,7 +4,7 @@
 
 **Juan Manuel Fraga Sastrías** · ORCID [0000-0002-9255-278X](https://orcid.org/0000-0002-9255-278X) · [docfraga.com](https://www.docfraga.com)
 
-Technical note · version 1.0 · 2026-10-07 · License [CC BY 4.0](LICENSE)
+Technical note · version 1.1 · 2026-10-07 · License [CC BY 4.0](LICENSE)
 
 ## Abstract
 
@@ -21,8 +21,13 @@ Web versions: [English](https://www.docfraga.com/en/whitepapers/gx10-17-dias) ·
 
 ## How to cite
 
-Fraga-Sastrías JM. *From Amazon to production in 17 days: a 128 GB AI workstation serving real agents*. Technical note, version 1.0. 2026.
+Fraga-Sastrías JM. *From Amazon to production in 17 days: a 128 GB AI workstation serving real agents*. Technical note, version 1.1. 2026.
 https://doi.org/10.5281/zenodo.23213603
 
 - All versions (concept DOI, always resolves to the latest): [10.5281/zenodo.23213603](https://doi.org/10.5281/zenodo.23213603)
 - Version 1.0: [10.5281/zenodo.23213604](https://doi.org/10.5281/zenodo.23213604)
+
+## Changelog
+
+- **1.1** (2026-10-07): Adds the agentic-safety arena (2026-10-05): standard vs abliterated (Heretic) Qwen3.6-35B-A3B in a clean pair; critical failures 40 % → 77 %, with permissions (0/20 → 17/20) and clinical confidentiality (0/20 → 15/20) breaking. New third lesson in the arenas section; DOI printed in the header.
+- **1.0** (2026-10-07): first release.
