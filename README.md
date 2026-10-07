@@ -1,5 +1,7 @@
 # From Amazon to production in 17 days: a 128 GB AI workstation serving real agents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23213603.svg)](https://doi.org/10.5281/zenodo.23213603)
+
 **Juan Manuel Fraga Sastrías** · ORCID [0000-0002-9255-278X](https://orcid.org/0000-0002-9255-278X) · [docfraga.com](https://www.docfraga.com)
 
 Technical note · version 1.0 · 2026-10-07 · License [CC BY 4.0](LICENSE)
@@ -20,4 +22,7 @@ Web versions: [English](https://www.docfraga.com/en/whitepapers/gx10-17-dias) ·
 ## How to cite
 
 Fraga-Sastrías JM. *From Amazon to production in 17 days: a 128 GB AI workstation serving real agents*. Technical note, version 1.0. 2026.
-A DOI will be listed here once the release is archived in Zenodo.
+https://doi.org/10.5281/zenodo.23213603
+
+- All versions (concept DOI, always resolves to the latest): [10.5281/zenodo.23213603](https://doi.org/10.5281/zenodo.23213603)
+- Version 1.0: [10.5281/zenodo.23213604](https://doi.org/10.5281/zenodo.23213604)

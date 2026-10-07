@@ -6,6 +6,7 @@ authors:
     given-names: "Juan Manuel"
     orcid: "https://orcid.org/0000-0002-9255-278X"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23213603"
 url: "https://www.docfraga.com/en/whitepapers/gx10-17-dias"
 keywords:
   - "local LLM inference"
@@ -26,4 +27,5 @@ preferred-citation:
       given-names: "Juan Manuel"
       orcid: "https://orcid.org/0000-0002-9255-278X"
   year: 2026
+  doi: "10.5281/zenodo.23213603"
   url: "https://www.docfraga.com/en/whitepapers/gx10-17-dias"
