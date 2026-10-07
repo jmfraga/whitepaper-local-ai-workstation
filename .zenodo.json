@@ -2,7 +2,7 @@
   "title": "From Amazon to production in 17 days: a 128 GB AI workstation serving real agents",
   "upload_type": "publication",
   "publication_type": "technicalnote",
-  "description": "<p>A physician's field report on standing up local LLM inference for production health-care agents. An ASUS Ascent GX10 (NVIDIA GB10 Grace Blackwell, 128 GB unified memory) went from the box to serving a 35-billion-parameter mixture-of-experts model (Qwen3.6-35B, NVFP4, vLLM) in 17 days. The note reports measured latency and throughput, the inference-engine configuration and why each option was chosen, the failure modes seen in production and their mitigations, the routing layer that lets agents switch between local and cloud models, and how models are selected through the author's own head-to-head evaluation arenas. A technical appendix details the memory budget, benchmark methodology, vLLM flags, and the arenas run.</p><p>Web versions: <a href=\"https://www.docfraga.com/en/whitepapers/gx10-17-dias\">English</a> · <a href=\"https://www.docfraga.com/whitepapers/gx10-17-dias\">Español</a>.</p>",
+  "description": "<p>A physician's field report on standing up local LLM inference for production health-care agents. An ASUS Ascent GX10 (NVIDIA GB10 Grace Blackwell, 128 GB unified memory) went from the box to serving a 35-billion-parameter mixture-of-experts model (Qwen3.6-35B, NVFP4, vLLM) in 17 days. The note reports measured latency and throughput, the inference-engine configuration and why each option was chosen, the failure modes seen in production and their mitigations, the routing layer that lets agents switch between local and cloud models, and how models are selected through the author's own head-to-head evaluation arenas. A technical appendix details the memory budget, benchmark methodology, vLLM flags, and the arenas run. Version 1.2 adds an appendix with the downloadable report of each arena (nine reports, in Spanish; four of them reconstructed afterwards from the notes taken on the day of the test, and labelled as such).</p><p>Web versions: <a href=\"https://www.docfraga.com/en/whitepapers/gx10-17-dias\">English</a> · <a href=\"https://www.docfraga.com/whitepapers/gx10-17-dias\">Español</a>.</p>",
   "creators": [
     {
       "name": "Fraga-Sastrías, Juan Manuel",
@@ -23,7 +23,7 @@
     "mixture of experts"
   ],
   "language": "eng",
-  "version": "1.1",
+  "version": "1.2",
   "publication_date": "2026-10-07",
   "related_identifiers": [
     {
